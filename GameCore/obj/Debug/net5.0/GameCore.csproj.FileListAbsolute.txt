@@ -1,0 +1,12 @@
+C:\Users\manaj\source\repos\Solution1\GameCore\bin\Debug\net5.0\GameCore.deps.json
+C:\Users\manaj\source\repos\Solution1\GameCore\bin\Debug\net5.0\GameCore.dll
+C:\Users\manaj\source\repos\Solution1\GameCore\bin\Debug\net5.0\GameCore.pdb
+C:\Users\manaj\source\repos\Solution1\GameCore\obj\Debug\net5.0\GameCore.csproj.AssemblyReference.cache
+C:\Users\manaj\source\repos\Solution1\GameCore\obj\Debug\net5.0\GameCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manaj\source\repos\Solution1\GameCore\obj\Debug\net5.0\GameCore.AssemblyInfoInputs.cache
+C:\Users\manaj\source\repos\Solution1\GameCore\obj\Debug\net5.0\GameCore.AssemblyInfo.cs
+C:\Users\manaj\source\repos\Solution1\GameCore\obj\Debug\net5.0\GameCore.csproj.CoreCompileInputs.cache
+C:\Users\manaj\source\repos\Solution1\GameCore\obj\Debug\net5.0\GameCore.dll
+C:\Users\manaj\source\repos\Solution1\GameCore\obj\Debug\net5.0\refint\GameCore.dll
+C:\Users\manaj\source\repos\Solution1\GameCore\obj\Debug\net5.0\GameCore.pdb
+C:\Users\manaj\source\repos\Solution1\GameCore\obj\Debug\net5.0\ref\GameCore.dll
